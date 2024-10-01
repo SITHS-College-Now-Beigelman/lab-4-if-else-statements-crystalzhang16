@@ -33,7 +33,7 @@ for (i=1; i<=amtFruit; i++) //loops the code below until variable i is greater t
         cout << fruit << " MEDIUM SUGAR FRUIT" << endl; //if the sugar content is greater or equal to 10 and less than or equal to 14 (in between 10 and 14 includsive) it will print this message
 
     else //if none of the if comments above apply, it will execute below
-        cout << fruit << " HIGH SUGAR FRUIT" <<endl; //if the sugar content is not less than or equal top 14 and less than or equal to 10, it will print this message
+        cout << fruit << " HIGH SUGAR FRUIT" <<endl; //if the sugar content is not less than or equal to 14 and less than or equal to 10, it will print this message
 }
 
 /* 
